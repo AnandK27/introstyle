@@ -2,7 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2412.14432-b31b1b.svg)](https://arxiv.org/abs/2412.14432)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://anandk27.github.io/assets/html/IntroStyle/)
-[![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/AnandK27/IntroStyle)
+[![Code](https://img.shields.io/badge/Code-GitHub-green?logo=github)](https://github.com/AnandK27/IntroStyle)
 
 ## Abstract
 
