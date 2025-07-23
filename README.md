@@ -1,7 +1,7 @@
 # IntroStyle: Introspective Style Attribution using Diffusion Features (ICCV '25)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2412.14432-b31b1b.svg)](https://arxiv.org/abs/2412.14432)
-[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://anandk27.github.io/assets/html/IntroStyle/)
+[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://anandk27.github.io/IntroStyle/)
 [![Code](https://img.shields.io/badge/Code-GitHub-green?logo=github)](https://github.com/AnandK27/IntroStyle)
 
 ## Abstract
