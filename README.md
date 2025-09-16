@@ -146,10 +146,10 @@ python extract_features.py --input_dir ./images --output_dir ./features --batch_
 If you use IntroStyle in your research, please cite our paper:
 
 ```bibtex
-@article{introstyle2025,
-  title={IntroStyle: Introspective Style Attribution using Diffusion Features},
-  author={Kumar, Anand and Mu, Jiteng and Vasconcelos, Nuno},
-  journal={arXiv preprint arXiv:2024.2412.14432},
-  year={2024}
+@InProceedings{kumar2025introstyle,
+  author    = {Kumar, Anand and Mu, Jiteng and Vasconcelos, Nuno},
+  title     = {IntroStyle: Training-Free Introspective Style Attribution using Diffusion Features},
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year      = {2025},
 }
 ```
